@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameTable_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: e74ad0e168bf7af4595c85fd5a50926d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 123634581504
+    m_Localized: SIGN IN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399082913792
+    m_Localized: SIGN UP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 543769624576
+    m_Localized: Nickname
+    m_Metadata:
+      m_Items: []
+  - m_Id: 572882288640
+    m_Localized: Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 595321815040
+    m_Localized: Remember me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 623587229696
+    m_Localized: BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 833977712640
+    m_Localized: Password again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2455512416256
+    m_Localized: SIGN IN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3406763786240
+    m_Localized: SIGN UP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3652071849984
+    m_Localized: QUIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3888072753152
+    m_Localized: SIGN IN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4077302972416
+    m_Localized: 'Nickname:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4266457694208
+    m_Localized: Enter text...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4446980538368
+    m_Localized: 'Password:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4604283715584
+    m_Localized: Enter text...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4819875135488
+    m_Localized: Remember me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4996853792768
+    m_Localized: BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5144329715712
+    m_Localized: SIGN IN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5315453124608
+    m_Localized: SIGN UP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5473985232896
+    m_Localized: 'Nickname:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5673277587456
+    m_Localized: 'Password:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5807767945216
+    m_Localized: Enter text...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6082557771776
+    m_Localized: Enter text...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6251152015360
+    m_Localized: 'Password again:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6414209777664
+    m_Localized: Enter text...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6572125323264
+    m_Localized: BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6689754578944
+    m_Localized: SIGN UP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7455827427328
+    m_Localized: PLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7590212927488
+    m_Localized: ADMIN MENU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7726829797376
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8079239413760
+    m_Localized: ABOUT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8219761180672
+    m_Localized: QUIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8346815037440
+    m_Localized: STATISTICS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8502012674048
+    m_Localized: Nickname
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8651795464192
+    m_Localized: Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8770150334464
+    m_Localized: Role
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8887595040768
+    m_Localized: BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9041651826688
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9203845562368
+    m_Localized: 'Music:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9346384789504
+    m_Localized: 'Sound Effects:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9484985565184
+    m_Localized: 'Language:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9590073851904
+    m_Localized: BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9810891374592
+    m_Localized: ABOUT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9957964644352
+    m_Localized: BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10106547863552
+    m_Localized: Personal page
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10363579006976
+    m_Localized: BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10485863940096
+    m_Localized: Logout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10611831472128
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2689574852755456
+    m_Localized: STATISTICS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2756843603623936
+    m_Localized: 'Name: Dariia
+
+      Surname: Posunko
+
+      Age: 20
+
+      Location:
+      Kharkiv, Ukraine'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2757293547585536
+    m_Localized: Hi, my name is Dariia, i'm a passionate game developer weaving digital
+      wonders. With a heart for programming and a flair for creativity, i brings
+      virtual realms to life through code and imagination.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2758205397663744
+    m_Localized: Avatar ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2758294337880064
+    m_Localized: Role
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2796864465403904
+    m_Localized: 'Change password:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2797325679460352
+    m_Localized: New password...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2797650457001984
+    m_Localized: Developer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3105051219460096
+    m_Localized: ADMIN MENU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3105437556801536
+    m_Localized: Points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3105690334920704
+    m_Localized: Total
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

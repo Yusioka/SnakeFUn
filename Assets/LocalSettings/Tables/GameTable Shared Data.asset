@@ -1,0 +1,264 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GameTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GameTable
+  m_TableCollectionNameGuidString: e74ad0e168bf7af4595c85fd5a50926d
+  m_Entries:
+  - m_Id: 123634581504
+    m_Key: Sign in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399082913792
+    m_Key: Sign up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 543769624576
+    m_Key: Nickname
+    m_Metadata:
+      m_Items: []
+  - m_Id: 572882288640
+    m_Key: Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 595321815040
+    m_Key: Remember me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 623587229696
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 833977712640
+    m_Key: Password again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2455512416256
+    m_Key: signIn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3406763786240
+    m_Key: signUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3652071849984
+    m_Key: quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3888072753152
+    m_Key: signin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4077302972416
+    m_Key: nickname
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4266457694208
+    m_Key: enterText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4446980538368
+    m_Key: password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4604283715584
+    m_Key: entertext
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4819875135488
+    m_Key: rememberMe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4996853792768
+    m_Key: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5144329715712
+    m_Key: signi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5315453124608
+    m_Key: signup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5473985232896
+    m_Key: nickn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5673277587456
+    m_Key: parol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5807767945216
+    m_Key: enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6082557771776
+    m_Key: entr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6251152015360
+    m_Key: passAgain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6414209777664
+    m_Key: entir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6572125323264
+    m_Key: bak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6689754578944
+    m_Key: sigup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7455827427328
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7590212927488
+    m_Key: admin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7726829797376
+    m_Key: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8079239413760
+    m_Key: about
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8219761180672
+    m_Key: quite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8346815037440
+    m_Key: statisticsd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8502012674048
+    m_Key: nicknamef
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8651795464192
+    m_Key: passwords
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8770150334464
+    m_Key: role
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8887595040768
+    m_Key: ba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9041651826688
+    m_Key: set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9203845562368
+    m_Key: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9346384789504
+    m_Key: sount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9484985565184
+    m_Key: language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9590073851904
+    m_Key: bk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9810891374592
+    m_Key: abot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9957964644352
+    m_Key: bac
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10106547863552
+    m_Key: personal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10363579006976
+    m_Key: "\u043D\u0430\u0437\u0430\u0434"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10485863940096
+    m_Key: logout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10611831472128
+    m_Key: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2689574852755456
+    m_Key: statistics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2756843603623936
+    m_Key: abouttext
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2757293547585536
+    m_Key: texti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2758205397663744
+    m_Key: avatarid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2758294337880064
+    m_Key: rolee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2796864465403904
+    m_Key: dghfhfghhfghhfghfghfghfghfhfhgfhfghfgh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2797325679460352
+    m_Key: ntwsds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2797650457001984
+    m_Key: developer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3105051219460096
+    m_Key: fdfsd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3105437556801536
+    m_Key: points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3105690334920704
+    m_Key: total
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7099656644437213208
+  references:
+    version: 2
+    RefIds:
+    - rid: 7099656644437213208
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1701732595251
